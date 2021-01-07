@@ -21,12 +21,12 @@
     .place__website{
         width: 352px;
         text-align: center;
-        margin: 48px auto ;
+        margin: 48px auto;
     }
 }
 @media screen and (max-width:425px){ 
     .place__website{
         width: 288px;
-        margin: 32px 16px ;
+        margin: 32px 16px;
     }
 }
