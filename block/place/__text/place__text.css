@@ -1,0 +1,29 @@
+.place__text{
+    display: inline-block;
+    max-width: 456px;
+    margin-left: 40px;
+}
+@media screen and (min-width:1024px) and (max-width: 1280px){
+    .place__text{
+        max-width: 456px;
+        margin-left: 32px;
+    }
+}
+@media screen and (min-width:768px) and (max-width: 1024px){
+    .place__text{
+        max-width: 352px;
+        margin-left: 28px;
+    }
+}
+@media screen and (min-width:425px) and (max-width: 768px){
+    .place__text{
+        max-width: 288px;
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width:425px){ 
+    .place__text{
+        max-width: 288px;
+        margin: 0 14px;
+    }
+}
