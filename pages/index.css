@@ -1,7 +1,7 @@
 /* Сброс */
-@import url(./vendor/normalize.css);
+@import url(../vendor/normalize.css);
 /* Шрифт */
-@import url(./vendor/font/font.css);
+@import url(../vendor/font/font.css);
 /* Главная страница */
 @import url(../block/page/page.css);
 /* Header */
