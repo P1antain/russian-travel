@@ -8,6 +8,7 @@
 @import url(../block/header/header.css);
 @import url(../block/header/__links/header__links.css);
 @import url(../block/header/__lang-link/header__lang-link.css);
+@import url(../block/header/__lang-link/_active/header__lang-link_active.css);
 /* Lead */
 @import url(../block/lead/lead.css);
 @import url(../block/lead/__title/lead__title.css);
@@ -35,11 +36,13 @@
 @import url(../block/place/__paragraph/place__paragraph.css);
 /* Cover */
 @import url(../block/cover/cover.css);
+@import url(../block/cover/__backgound/cover__background.css);
 @import url(../block/cover/__overlay/cover__overlay.css);
 @import url(../block/cover/__title/cover__title.css);
 @import url(../block/cover/__subtitle/cover__subtitle.css);
 /* Footer */
 @import url(../block/footer/footer.css);
 @import url(../block/footer/__links/footer__links.css);
+@import url(../block/footer/__line/footer__line.css);
 @import url(../block/footer/__link/footer__link.css);
 @import url(../block/footer/__author/footer__author.css);

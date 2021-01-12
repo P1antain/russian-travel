@@ -3,13 +3,13 @@
     max-width: 456px;
     margin-left: 40px;
 }
-@media screen and (min-width:1024px) and (max-width: 1280px){
+@media screen and (min-width:1023px) and (max-width: 1280px){
     .place__text{
         max-width: 456px;
         margin-left: 32px;
     }
 }
-@media screen and (min-width:768px) and (max-width: 1024px){
+@media screen and (min-width:768px) and (max-width: 1023px){
     .place__text{
         max-width: 352px;
         margin-left: 28px;

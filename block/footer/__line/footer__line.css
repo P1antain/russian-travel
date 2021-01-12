@@ -1,0 +1,25 @@
+.footer__line{
+    margin-right: 18px;
+}
+
+.footer__line:last-child{
+    margin-right: 0;
+}
+
+
+@media screen and (min-width: 425px) and (max-width:767px){ 
+    .footer__line{
+        margin-bottom: 18px;
+    }
+}
+
+@media screen and (max-width:425px){ 
+    .footer__line{
+        padding-bottom: 32px;
+        margin: 0;
+    }
+
+    .footer__line:last-of-type{
+        padding-bottom:0;
+    }
+}
