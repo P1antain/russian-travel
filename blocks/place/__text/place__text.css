@@ -9,13 +9,13 @@
         margin-left: 32px;
     }
 }
-@media screen and (min-width:768px) and (max-width: 1023px){
+@media screen and (min-width:767px) and (max-width: 1023px){
     .place__text{
         max-width: 352px;
         margin-left: 28px;
     }
 }
-@media screen and (min-width:425px) and (max-width: 768px){
+@media screen and (min-width:425px) and (max-width: 767px){
     .place__text{
         max-width: 288px;
         margin: 0 auto;
