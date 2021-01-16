@@ -8,9 +8,9 @@
 .place:last-of-type{
     margin-bottom: 0;
 }
-@media screen and (min-width:1023px) and (max-width: 1280px){
+@media screen and (min-width:1023px) and (max-width: 1279px){
     .place{
-        max-width: 1024px;
+        max-width: 928px;
         grid-template-columns: 440px 456px;
         margin: 92px 48px;
     }

@@ -3,7 +3,7 @@
     max-width: 456px;
     margin-left: 40px;
 }
-@media screen and (min-width:1023px) and (max-width: 1280px){
+@media screen and (min-width:1023px) and (max-width: 1279px){
     .place__text{
         max-width: 456px;
         margin-left: 32px;
